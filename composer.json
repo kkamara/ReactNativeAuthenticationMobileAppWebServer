@@ -1,8 +1,8 @@
 {
-    "name": "kkamara/php-reactjs-boilerplate",
+    "name": "kkamara/reactnativeauthenticationmobileappwebserver",
     "version": "0.3.3",
     "type": "project",
-    "description": "(2021) A GDPR compliant Laravel 10.x boilerplate with Redux.",
+    "description": "(12-Jan-2024) A GDPR compliant Laravel 10.x web server for the mobile app.",
     "keywords": [
         "web",
         "web-app",
